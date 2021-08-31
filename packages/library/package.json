@@ -1,0 +1,8 @@
+{
+  "name": "@monorepo/library",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "Chris Mellard",
+  "license": "MIT",
+  "private": true
+}

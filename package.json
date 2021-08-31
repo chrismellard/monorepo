@@ -1,0 +1,15 @@
+{
+  "name": "@monorepo/root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Mellard",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0"
+  }
+}
