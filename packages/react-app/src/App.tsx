@@ -1,7 +1,7 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {someFunction} from '@monorepo/library';
+// import {someFunction} from '../../library'; // fail
 
 function App() {
   return (
